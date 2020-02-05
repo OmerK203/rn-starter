@@ -12,6 +12,9 @@ const ListScreen = () => {
 	{name: 'Friends #7'},
 	{name: 'Friends #8'},
 	{name: 'Friends #9'},
+	{name: 'Friends #10'},
+	{name: 'Friends #11'},
+	{name: 'Friends #12'},
 ];
 
 	return (
